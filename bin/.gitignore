@@ -27,14 +27,3 @@ HELP.md
 
 ### VS Code ###
 .vscode/
-
-**/target
-**/META-INF
-**/.classpath
-**/.project
-**/.settings
-**/.DS_Store
-**/*.iml
-**/.idea
-**/.springBeans
-**/.factorypath
